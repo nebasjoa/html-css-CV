@@ -68,9 +68,17 @@ body {
     margin-top: 14px;
     width: 15px;
 }
-ul {
+.left-side ul {
     padding-left: 10px;
     list-style-type: none;
+}
+.right-side ul {
+    margin-left: 30px;
+    font-size: 14px;
+}
+.right-side li {
+    text-align:justify;
+    margin-right: 40px; 
 }
 .education-year {
     margin-top: 10px;
