@@ -14,7 +14,6 @@ body {
     margin:auto;
     margin-top: 70px;
     margin-bottom: 70px;
-    background: rgb(124, 255, 157);
     display: flex;
     justify-content: center;
 }
@@ -22,13 +21,13 @@ body {
     display: flex;
     flex: 2;
     flex-direction: column;
-    background-color: rgb(216, 216, 216);
+    background-color: #BFC7D9;
 }
 .right-side {
     display: flex;
     flex: 4;
     flex-direction: column;
-    background-color: rgb(241, 241, 241);
+    background-color: #D9D9D9;
 }
 .photo {
     margin-top: 30px;
@@ -42,9 +41,6 @@ body {
     display: flex;
     font-size: 1px;
     visibility: hidden;
-}
-.contact-me {
-    background-color: rgb(216, 216, 216);
 }
 .contact-me-row {
     display: flex;
@@ -65,9 +61,9 @@ body {
     margin-top: 15px;
     margin-right: 20px;
     margin-bottom: 15px;
-    background-color: rgb(100, 100, 100);
+    background-color: #466C8C;
     text-transform: uppercase;
-    border-right: 15px solid rgb(100, 100, 100);
+    border-right: 15px solid #466C8C;
     border-top-right-radius: 25px;
     border-bottom-right-radius: 25px;
 }
